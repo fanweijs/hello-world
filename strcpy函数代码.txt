@@ -1,6 +1,2 @@
 strcpy函数代码
-<<<<<<< HEAD
 本地编辑
-=======
-远程edit
->>>>>>> 22687255dd78d0cf314c82ea47b2cce0dddbf059
