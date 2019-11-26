@@ -29,14 +29,4 @@
       <Filter>资源文件</Filter>
     </ResourceCompile>
   </ItemGroup>
-  <ItemGroup>
-    <None Include="..\..\MathLibrary\Debug\MathLibrary.dll">
-      <Filter>源文件</Filter>
-    </None>
-  </ItemGroup>
-  <ItemGroup>
-    <Library Include="..\..\MathLibrary\Debug\MathLibrary.lib">
-      <Filter>源文件</Filter>
-    </Library>
-  </ItemGroup>
 </Project>
